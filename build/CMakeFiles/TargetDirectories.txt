@@ -1,0 +1,13 @@
+/home/lab603/Desktop/mprpcProject/build/CMakeFiles/edit_cache.dir
+/home/lab603/Desktop/mprpcProject/build/CMakeFiles/rebuild_cache.dir
+/home/lab603/Desktop/mprpcProject/build/src/CMakeFiles/mprpc.dir
+/home/lab603/Desktop/mprpcProject/build/src/CMakeFiles/edit_cache.dir
+/home/lab603/Desktop/mprpcProject/build/src/CMakeFiles/rebuild_cache.dir
+/home/lab603/Desktop/mprpcProject/build/example/CMakeFiles/edit_cache.dir
+/home/lab603/Desktop/mprpcProject/build/example/CMakeFiles/rebuild_cache.dir
+/home/lab603/Desktop/mprpcProject/build/example/callee/CMakeFiles/provider.dir
+/home/lab603/Desktop/mprpcProject/build/example/callee/CMakeFiles/edit_cache.dir
+/home/lab603/Desktop/mprpcProject/build/example/callee/CMakeFiles/rebuild_cache.dir
+/home/lab603/Desktop/mprpcProject/build/example/caller/CMakeFiles/consumer.dir
+/home/lab603/Desktop/mprpcProject/build/example/caller/CMakeFiles/edit_cache.dir
+/home/lab603/Desktop/mprpcProject/build/example/caller/CMakeFiles/rebuild_cache.dir
